@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+pass.py
+
 .DS_Store
 
 *.txt

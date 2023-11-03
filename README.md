@@ -1,6 +1,3 @@
 # ProyectoETL
 
-hola pepe
-
-
-adios
+h
