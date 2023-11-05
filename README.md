@@ -1,6 +1,6 @@
 # ProyectoETL
 
-![Imagen](https://github.com/SaraPazo/ProjectET/blob/main/Imagen/imagenpor.png)
+![Imagen](https://github.com/SaraPazo/ProjectET/tree/main/Imagen/imagenpor.png)
 
 
 
