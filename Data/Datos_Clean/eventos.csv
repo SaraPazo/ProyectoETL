@@ -1,223 +1,252 @@
-artista,eventos,fecha1,fecha2,precios,enlaces
-Cariño,1 Evento,13/01/2024,,"desde 19,80 €",https://www.entradas.com/artist/carino/carino-3503691/
-Iván Ferreiro,1 Evento,13/01/2024,,"desde 38,50 €",https://www.entradas.com/artist/ivan-ferreiro/
-The World Of Hans Zimmer,2 eventos,24/04/2024,29/04/2024,"desde 55,00 €",https://www.entradas.com/artist/hans-zimmer/
-Triángulo de Amor Bizarro,1 Evento,29/12/2023,,"desde 19,80 €",https://www.entradas.com/artist/triangulo-de-amor-bizarro/
-Nico B,1 Evento,14/01/2024,,"desde 13,50 €",https://www.entradas.com/artist/nico-b/
-Cala Vento,1 Evento,01/12/2023,,"desde 19,80 €",https://www.entradas.com/artist/cala-vento/
-Sidonie,2 eventos,12/01/2024,14/01/2024,"desde 27,50 €",https://www.entradas.com/artist/sidonie/sidonie-1739136/
-Belako - Sigo regando,1 Evento,20/01/2024,,"desde 17,60 €",https://www.entradas.com/artist/belako/
-Biznaga,1 Evento,26/01/2024,,"desde 18,70 €",https://www.entradas.com/artist/biznaga/
-Morreo - Alegría Club!,1 Evento,18/01/2024,,"desde 14,50 €",https://www.entradas.com/artist/morreo/
-Diego el Cigala - Obras Maestras,2 eventos,11/12/2023,18/12/2023,"desde 55,00 €",https://www.entradas.com/artist/diego-el-cigala/
-Symphonic Rhapsody of Queen,1 Evento,16/01/2024,,"desde 35,00 €",https://www.entradas.com/artist/symphonic-rhapsody-of-queen/symphonic-rhapsody-of-queen-3295553/
-Sexy Zebras,1 Evento,01/02/2024,,"desde 18,00 €",https://www.entradas.com/artist/sexy-zebras/sexy-zebras-3277511/
-"Biografía - Rafa Sánchez, de la unión",1 Evento,11/12/2023,,"desde 35,00 €",https://www.entradas.com/artist/rafa-sanchez/
-OBK,3 eventos,13/01/2024,27/01/2024,"desde 30,00 €",https://www.entradas.com/artist/obk/
-El Consorcio - Toda una vida,2 eventos,27/11/2023,28/11/2023,"desde 29,00 €",https://www.entradas.com/artist/el-consorcio/el-consorcio-toda-una-vida-3165443/
-Rock en Familia - Hijos del Rock and Roll,2 eventos,05/11/2023,10/03/2024,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-hijos-del-rock-and-roll-3272770/
-Rock en Familia - I Love Rock and Roll,1 Evento,03/12/2023,,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-i-love-rock-and-roll-3221042/
-Rock en Familia - Queenmanía,2 eventos,17/12/2023,14/04/2024,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-queenmania-3294746/
-Rock en Familia - I Love Heavy Metal,2 eventos,19/11/2023,24/03/2024,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-i-love-heavy-metal-3449495/
-Morgan,1 Evento,19/01/2024,,"desde 29,70 €",https://www.entradas.com/artist/morgan/
-Los Zigarros,2 eventos,11/01/2024,12/01/2024,"desde 30,80 €",https://www.entradas.com/artist/los-zigarros/
-Queralt Lahoz,2 eventos,01/12/2023,02/12/2023,"desde 23,00 €",https://www.entradas.com/artist/queralt-lahoz/
-Noa,1 Evento,19/03/2024,,"desde 30,00 €",https://www.entradas.com/artist/noa/
-Mocedades - Avanzando hacia el futuro,1 Evento,08/01/2024,,"desde 30,00 €",https://www.entradas.com/artist/mocedades/mocedades-avanzando-hacia-el-futuro-3411037/
-John Grant,1 Evento,17/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/john-grant/
-Callas en concierto - En holograma,2 eventos,11/11/2023,09/12/2023,"desde 18,00 €",https://www.entradas.com/artist/maria-callas/
-Zenet,1 Evento,26/11/2023,,"desde 18,00 €",https://www.entradas.com/artist/zenet/
-Laura Pausini,1 Evento,27/01/2024,,"desde 30,00 €",https://www.entradas.com/artist/laura-pausini/
-Concierto Sinfónico de Abono A13 (Jueves),1 Evento,22/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a13-jueves-3479302/
-Concierto Sinfónico de Abono A7 (Viernes),1 Evento,24/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a7-viernes-3479291/
-Concierto Sinfónico de Abono A15 (Viernes),1 Evento,15/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a15-viernes-3479307/
-Concierto Sinfónico de Abono A19 (Viernes),1 Evento,26/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a19-viernes-3479315/
-Concierto Sinfónico de Abono B16 (Viernes),1 Evento,22/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b16-viernes-3479309/
-Concierto Sinfónico de Abono B18 (Jueves),1 Evento,18/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b18-jueves-3479312/
-Concierto Sinfónico de Abono B18 (Viernes),1 Evento,19/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b18-viernes-3479313/
-Concierto Sinfónico de Abono B12 (Viernes),1 Evento,16/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b12-viernes-3479301/
-Concierto Sinfónico de Abono B16 (Jueves),1 Evento,21/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b16-jueves-3479308/
-Concierto Sinfónico de Abono A15 (Jueves),1 Evento,14/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a15-jueves-3479306/
-Concierto Sinfónico de Abono B14 (Jueves),1 Evento,29/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b14-jueves-3479304/
-Concierto Sinfónico de Abono A9 (Jueves),1 Evento,18/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a9-jueves-3479294/
-Concierto Sinfónico de Abono A17 (Viernes),1 Evento,12/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a17-viernes-3479311/
-Concierto Sinfónico de Abono A13 (Viernes),1 Evento,23/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a13-viernes-3479303/
-Concierto Sinfónico de Abono B8 (Jueves),1 Evento,11/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b8-jueves-3479292/
-Concierto Sinfónico de Abono A11 (Viernes),1 Evento,09/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a11-viernes-3479299/
-Concierto Sinfónico de Abono A7 (Jueves),1 Evento,23/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a7-jueves-3479290/
-Concierto Sinfónico de Abono B8 (Viernes),1 Evento,12/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b8-viernes-3479293/
-Concierto Sinfónico de Abono B6 (Viernes),1 Evento,10/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b6-viernes-3479289/
-Concierto Sinfónico de Abono B10 (Viernes),1 Evento,26/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b10-viernes-3479297/
-JÓVENES MÚSICOS III,1 Evento,05/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-iii-3491493/
-JÓVENES MÚSICOS I,1 Evento,17/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-i-3491507/
-Concierto Sinfónico de Abono B20 (Viernes),1 Evento,10/05/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b20-viernes-3479317/
-Concierto Sinfónico de Abono B10 (Jueves),1 Evento,25/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b10-jueves-3479296/
-Concierto Sinfónico de Abono A9 (Viernes),1 Evento,19/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a9-viernes-3479295/
-Concierto Sinfónico de Abono A17 (Jueves),1 Evento,11/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a17-jueves-3479310/
-Concierto Sinfónico de Abono B14 (Viernes),1 Evento,01/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b14-viernes-3479305/
-Concierto Sinfónico de Abono A19 (Jueves),1 Evento,25/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a19-jueves-3479314/
-Ensayos Ciclo Sinfónico,15 eventos,10/11/2023,09/05/2024,"desde 3,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/ensayos-ciclo-sinfonico-3491491/
-JÓVENES MÚSICOS II,1 Evento,02/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-ii-3491492/
-CONCIERTO DE GALARDONADOS EL CONCURSO JUVENTUDES MUSICALES,1 Evento,17/05/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-de-galardonados-el-concurso-juventudes-musicales-3491494/
-Concierto Sinfónico de Abono B20 (Jueves),1 Evento,09/05/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b20-jueves-3479316/
-Concierto Sinfónico de Abono B12 (Jueves),1 Evento,15/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b12-jueves-3479300/
-Concierto Sinfónico de Abono A11 (Jueves),1 Evento,08/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a11-jueves-3479298/
-Paul Alone,1 Evento,01/02/2024,,"desde 22,00 €",https://www.entradas.com/artist/inverfest/paul-alone-3504465/
-McEnroe,1 Evento,13/01/2024,,"desde 22,00 €",https://www.entradas.com/artist/inverfest/mcenroe-3503685/
-Bestia Bebé,1 Evento,28/01/2024,,"desde 13,50 €",https://www.entradas.com/artist/inverfest/bestia-bebe-3077633/
-Ricardo Moya,1 Evento,21/01/2024,,"desde 16,50 €",https://www.entradas.com/artist/inverfest/ricardo-moya-3503694/
-Maximiliano Calvo - El Gallo,1 Evento,11/01/2024,,"desde 16,50 €",https://www.entradas.com/artist/inverfest/maximiliano-calvo-el-gallo-3503683/
-Grande Amore,1 Evento,20/01/2024,,"desde 16,50 €",https://www.entradas.com/artist/inverfest/grande-amore-3503693/
-Christina Rosenvinge,1 Evento,10/01/2024,,"desde 28,60 €",https://www.entradas.com/artist/inverfest/christina-rosenvinge-2831739/
-Rubén Pozo,1 Evento,25/01/2024,,"desde 22,00 €",https://www.entradas.com/artist/inverfest/ruben-pozo-3506022/
-Delgao,1 Evento,27/01/2024,,"desde 19,80 €",https://www.entradas.com/artist/inverfest/delgao-3504461/
-Austin TV,1 Evento,31/01/2024,,"desde 19,80 €",https://www.entradas.com/artist/inverfest/austin-tv-3491782/
-Ariel Rot - 25 años hablando solo,1 Evento,25/01/2024,,"desde 30,80 €",https://www.entradas.com/artist/inverfest/ariel-rot-25-anos-hablando-solo-3504415/
-Israel B - EED1HS,1 Evento,25/01/2024,,"desde 19,80 €",https://www.entradas.com/artist/inverfest/israel-b-eed1hs-3361884/
-Francisco,4 eventos,12/01/2024,23/03/2024,"desde 30,00 €",https://www.entradas.com/artist/francisco/
-Antonio Lizana,1 Evento,30/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/villanos-del-jazz/antonio-lizana-2840178/
-Raúl Paz,1 Evento,07/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/raul-paz-3444441/
-Shai Maestro,1 Evento,12/11/2023,,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/shai-maestro-3441647/
-Antonio Rey y amigos,1 Evento,05/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/antonio-rey-y-amigos-3496020/
-Mark Guiliana,1 Evento,20/11/2023,,"desde 23,00 €",https://www.entradas.com/artist/mark-guiliana/
-Billy Cobham Spectrum 50 Project,2 eventos,17/11/2023,,"desde 29,00 €",https://www.entradas.com/artist/villanos-del-jazz/billy-cobham-spectrum-50-project-3441649/
-Calibro 35,1 Evento,24/11/2023,,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/calibro-35-3495748/
-Richard Bona,2 eventos,10/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/richard-bona-3442563/
-Matthew Halsall,1 Evento,19/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/matthew-halsall-3441508/
-The Cookers,1 Evento,09/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/the-cookers-3441430/
-Stick Men & Gilipojazz,1 Evento,05/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/stick-men-gilipojazz-3451011/
-Ben L'Oncle Soul,1 Evento,15/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/ben-loncle-soul-3441648/
-Takuya Kuroda,1 Evento,07/11/2023,,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/takuya-kuroda-3441895/
-Fatoumata Diawara,1 Evento,21/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/fatoumata-diawara-3441856/
-Scary Pockets,1 Evento,09/02/2024,,"desde 28,00 €",https://www.entradas.com/artist/villanos-del-jazz/scary-pockets-3490507/
-Theo Croker Quartet,1 Evento,09/11/2023,,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/theo-croker-quartet-3441607/
-Kassa Overall,1 Evento,25/11/2023,,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/kassa-overall-3441668/
-Moisés P. Sánchez,1 Evento,18/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/moises-p-sanchez-3441501/
-Martirio & Chano Domínguez,1 Evento,14/11/2023,,"desde 24,00 €",https://www.entradas.com/artist/villanos-del-jazz/martirio-chano-dominguez-3441440/
-El Kanka: Ruta Firestone 2023,1 Evento,23/11/2023,,"desde 35,00 €",https://www.entradas.com/artist/el-kanka/
-Nando Agüeros,1 Evento,28/01/2024,,"desde 28,00 €",https://www.entradas.com/artist/nando-agueros/
-Jason Derulo,2 eventos,06/12/2023,07/12/2023,"desde 48,00 €",https://www.entradas.com/artist/jason-derulo/
-Zree and more,1 Evento,15/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/zree-and-more-3440669/
-Tina Turner Sinfónico,2 eventos,24/05/2024,25/05/2024,"desde 30,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/tina-turner-sinfonico-3451288/
-“Skybridges”,1 Evento,08/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/skybridges-3440668/
-Elvis in my life,1 Evento,26/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/elvis-in-my-life-3440662/
-Concierto Conmemorativo 50 Aniversario,1 Evento,01/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-conmemorativo-50-aniversario-3504147/
-“Dedication II”,1 Evento,16/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/dedication-ii-3440665/
-Bloomsound,1 Evento,24/05/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/bloomsound-3440676/
-Lara Bello flamenco,1 Evento,12/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/lara-bello-flamenco-3440672/
-Joni Jiménez,1 Evento,31/05/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/joni-jimenez-3440485/
-Celtiberia Jazz,1 Evento,19/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/celtiberia-jazz-3440673/
-“De aquí”,1 Evento,02/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/de-aqui-3440663/
-"Walking Jazz ""AtriLogy""",1 Evento,22/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/walking-jazz-atrilogy-3440670/
-Lo sugerente,1 Evento,05/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/lo-sugerente-3440671/
-"Concierto ""Impuesto"" a Javier Krahe",1 Evento,10/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-impuesto-a-javier-krahe-3409505/
-Concierto de Navidad 2023,2 eventos,21/12/2023,22/12/2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-de-navidad-2023-3519972/
-Antonio Reyes (flamenco),1 Evento,01/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/antonio-reyes-flamenco-3440484/
-Orquesta Sinfónica de Castilla León,1 Evento,11/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/orquesta-sinfonica-de-castilla-leon-3436297/
-Compás bolero,1 Evento,17/05/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/compas-bolero-3440675/
-Rajiv Jayawer,1 Evento,26/04/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/rajiv-jayawer-3440674/
-Niño Josele,1 Evento,01/03/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/nino-josele-3440667/
-“Ritual live”,1 Evento,23/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/ritual-live-3440666/
-¨Canciones que no se extraviaron¨,1 Evento,19/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/canciones-que-no-se-extraviaron-3440661/
-Jazz Mad Bones: Tributo a Glenn Miller,1 Evento,12/01/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/jazz-mad-bones-tributo-a-glenn-miller-3440611/
-Cañizares Rutas sonoras: Paisajes de Iberia para dos guitarr,1 Evento,09/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/canizares-rutas-sonoras-paisajes-de-iberia-para-dos-guitarr-3440664/
-"""Suite Sefarad""",1 Evento,24/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/suite-sefarad-3440608/
-"Ocaña, Copla de Libertad",1 Evento,17/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/ocana-copla-de-libertad-3440607/
-"""Recital 2.0""",1 Evento,15/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/recital-2-0-3440609/
-Swinging Classics for Christmas,1 Evento,22/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/swinging-classics-for-christmas-3440610/
-Concierto Extraordinario,1 Evento,14/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-extraordinario-3515184/
-Niños Mutantes,1 Evento,10/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/ninos-mutantes/
-Mahmood,3 eventos,08/05/2024,11/05/2024,"desde 34,00 €",https://www.entradas.com/artist/mahmood/
-Lou Fresco / Marc Ginale Aka Lil Supa,3 eventos,17/01/2024,21/01/2024,"desde 26,00 €",https://www.entradas.com/artist/lou-fresco/
-Carminho,1 Evento,06/02/2024,,"desde 30,00 €",https://www.entradas.com/artist/carminho/
-Homenaje a John Williams y lo mejor de Disney,1 Evento,23/12/2023,,"desde 38,00 €",https://www.entradas.com/artist/royal-film-concert-orchestra-rfco/
-The Bamboos,1 Evento,16/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/the-bamboos/
-FREEZR,1 Evento,02/02/2024,,"desde 35,20 €",https://www.entradas.com/artist/la-zowi/
-Vivir así es morir de amor,2 eventos,15/01/2024,04/02/2024,"desde 35,00 €",https://www.entradas.com/artist/vivir-asi-es-morir-de-amor/
-Concierto de año nuevo - Repertorio clásico de Viena,5 eventos,01/01/2024,02/01/2024,"desde 18,00 €",https://www.entradas.com/artist/concierto-de-ano-nuevo-repertorio-clasico-de-viena/
-Música de películas,1 Evento,13/01/2024,,"desde 5,00 €",https://www.entradas.com/artist/orquesta-sinfonica-chamartin/musica-de-peliculas-3232751/
-Christmas Concert,1 Evento,22/12/2023,,"desde 5,00 €",https://www.entradas.com/artist/orquesta-sinfonica-chamartin/christmas-concert-3228708/
-Noche de Jóvenes Estrellas,1 Evento,16/11/2023,,"desde 5,00 €",https://www.entradas.com/artist/orquesta-sinfonica-chamartin/noche-de-jovenes-estrellas-3482790/
-Jorge Bedoya - Las manos,1 Evento,17/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/jorge-bedoya/
-Farrucos y Fernández - Navidad en Familia,1 Evento,12/12/2023,,"desde 30,00 €",https://www.entradas.com/artist/farrucos-y-fernandez/
-Mocedades y Los Panchos - 50 Años contigo,2 eventos,13/12/2023,18/12/2023,"desde 35,00 €",https://www.entradas.com/artist/mocedades-y-los-panchos/
-Aranlight Soul & Gospel - Jazz & the City,1 Evento,15/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/aranlight/
-Greg Taro,2 eventos,08/02/2024,09/02/2024,"desde 16,00 €",https://www.entradas.com/artist/greg-taro/
-"Big Country, China Crisis, The Blow Monkeys, The Alarm",1 Evento,10/10/2024,,"desde 38,00 €",https://www.entradas.com/artist/sophisticated-pop-tour/
-El Conciertazo en Familia: Mozart y sus amigos,1 Evento,25/05/2024,,"desde 18,00 €",https://www.entradas.com/artist/el-conciertazo-en-familia-mozart-y-sus-amigos/
-Gran gala de navidad y año nuevo,1 Evento,30/12/2023,,"desde 25,00 €",https://www.entradas.com/artist/gran-gala-de-navidad-y-ano-nuevo/
-Mónica Matabuena Quartet - Jazz & the City,1 Evento,10/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/monica-matabuena/
-Jemba Groove,1 Evento,16/03/2024,,"desde 18,00 €",https://www.entradas.com/artist/jemba-groove/
-2LOUD en concierto - Jazzville,1 Evento,25/11/2023,,"desde 8,73 €",https://www.entradas.com/artist/2loud/
-Sven Helbig,1 Evento,17/04/2024,,"desde 35,00 €",https://www.entradas.com/artist/banco-mediolanum-summum-concert-series/sven-helbig-3516878/
-El Conciertazo en Familia: Las Cuatro Estaciones,1 Evento,16/03/2024,,"desde 18,00 €",https://www.entradas.com/artist/el-conciertazo-en-familia-las-cuatro-estaciones/
-Paradise Phantoms + Skunk Funk,1 Evento,08/11/2023,,"desde 17,00 €",https://www.entradas.com/eventseries/paradise-phantoms-skunk-funk-3483129/
-Mujeres Pop,1 Evento,10/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/mujeres-pop-3504916/
-Albertucho - El regreso,1 Evento,30/11/2023,,"desde 22,00 €",https://www.entradas.com/artist/albertucho/
-GAUR&NOALUR,1 Evento,19/11/2023,,"desde 4,25 €",https://www.entradas.com/artist/gaur-noalur/
-Federico Albanese,1 Evento,23/11/2023,,"desde 35,00 €",https://www.entradas.com/artist/federico-albanense/
-Fado como el río que fluye - Laureana Fadista,1 Evento,12/11/2023,,"desde 16,00 €",https://www.entradas.com/artist/laureana-fadista/
-PIXY,1 Evento,19/11/2023,,"desde 45,00 €",https://www.entradas.com/artist/pixy/
-Trovadores del Jazz,8 eventos,06/11/2023,18/12/2023,"desde 12,80 €",https://www.entradas.com/artist/trovadores-del-jazz/
-Jaleos Jondos,40 eventos,04/11/2023,10/12/2023,"desde 32,50 €",https://www.entradas.com/artist/jaleos-jondos/
-Rodrigo y Gabriela - In Between Thoughts...A New World Tour 2023,2 eventos,07/11/2023,09/11/2023,"desde 30,00 €",https://www.entradas.com/artist/rodrigo-y-gabriela/
-El Conciertazo en Familia: Especial Navidad,1 Evento,30/12/2023,,"desde 18,00 €",https://www.entradas.com/artist/el-conciertazo-en-familia-especial-navidad/
-Schumann y Brahms - Ensemble Praeteritum,1 Evento,16/11/2023,,"desde 12,00 €",https://www.entradas.com/artist/ensemble-praeteritum/
-Alice Phoebe Lou,1 Evento,29/11/2023,,"desde 24,00 €",https://www.entradas.com/artist/ciclo-jaguar/alice-phoebe-lou-3424897/
-Hard GZ: Tour 23/24,1 Evento,22/02/2024,,"desde 20,00 €",https://www.entradas.com/artist/hard-gz/
-Felabration - Tributo a FeIa Kuti,1 Evento,04/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/felabration/
-Fred de Palma,2 eventos,26/03/2024,27/03/2024,"desde 25,00 €",https://www.entradas.com/artist/fred-de-palma/
-Homenaje a Pablo Milanés,1 Evento,24/03/2024,,"desde 30,00 €",https://www.entradas.com/artist/homenaje-a-pablo-milanes/
-Momentos Alhambra: Rikas,1 Evento,14/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-rikas-3432438/
-Rolling Stones vs Beatles,1 Evento,17/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/rolling-stones-vs-beatles-3504917/
-La Serva Padrona - Aranjuez,1 Evento,25/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/la-serva-padrona-orquesta-martin-i-soler/
-Kaze - Gira 2024,1 Evento,21/04/2024,,"desde 22,00 €",https://www.entradas.com/artist/kaze/
-Lo + actual,1 Evento,01/12/2023,,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/lo-actual-3504780/
-"Mujer, inspiración y acción",1 Evento,19/11/2023,,"desde 4,17 €",https://www.entradas.com/artist/mujer-inspiracion-y-accion/
-Luceral + Cherry Pie,1 Evento,08/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/clubbing/luceral-cherry-pie-3523497/
-The Greatest Love Of All,1 Evento,20/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/the-greatest-love-of-all/the-greatest-love-of-all-3418160/
-Danza para Guitarra,1 Evento,09/12/2023,,"desde 9,00 €",https://www.entradas.com/artist/danza-para-guitarra/
-Blues & Roots,1 Evento,26/11/2023,,"desde 9,00 €",https://www.entradas.com/artist/blues-roots/
-Invisible Tattoo,1 Evento,29/11/2023,,"desde 18,00 €",https://www.entradas.com/artist/invisible-tatoo/
-Impulso presenta: Danilo Plessow (Motor City Drum Ensemble) + Javi Frias & Roberto Tempo,1 Evento,10/11/2023,,"desde 17,85 €",https://www.entradas.com/artist/danilo-plessow-motor-city-drum-ensemble/
-Aires de Persia,1 Evento,13/11/2023,,"desde 23,00 €",https://www.entradas.com/artist/aires-de-persia-ensambles-javid-zarbang/
-Footloosing,1 Evento,11/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/footlosing/
-Apartamentos Acapulco + Cora Yako,1 Evento,01/12/2023,,"desde 16,00 €",https://www.entradas.com/artist/ciclo-jaguar/apartamentos-acapulco-cora-yako-3477085/
-Diego Guerrero,1 Evento,15/12/2023,,"desde 18,00 €",https://www.entradas.com/artist/diego-guerrero/
-Rhythm Of The Dance,1 Evento,12/02/2024,,"desde 18,00 €",https://www.entradas.com/artist/rhythm-of-the-dance/
-Luna Ki,1 Evento,25/04/2024,,"desde 18,00 €",https://www.entradas.com/artist/luna-ki/
-Rawayana - ¿Quien trae las cornetas?,3 eventos,07/04/2024,10/04/2024,"desde 35,00 €",https://www.entradas.com/artist/rawayana/
-Rupatrupa,1 Evento,17/11/2023,,"desde 19,00 €",https://www.entradas.com/artist/rupatrupa/
-The Music of Big Star + The Sadies,1 Evento,16/11/2023,,"desde 28,00 €",https://www.entradas.com/artist/big-star/
-Eva Català Group,1 Evento,25/11/2023,,"desde 3,25 €",https://www.entradas.com/artist/eva-catala-group/
-"Fran Perea ""1 más 1 son 20""",1 Evento,23/02/2024,,"desde 25,00 €",https://www.entradas.com/artist/fran-perea/
-Gran Gala Flamenco - Madrid,2 eventos,24/12/2023,01/01/2024,"desde 35,00 €",https://www.entradas.com/artist/gran-gala-flamenco/gran-gala-flamenco-madrid-3139712/
-The Other Side - A Pink Floyd Live Experience,2 eventos,24/11/2023,17/12/2023,"desde 28,00 €",https://www.entradas.com/artist/the-other-side/
-VibranDo,1 Evento,17/12/2023,,"desde 18,00 €",https://www.entradas.com/artist/vibrando/
-El Negri ''Mi tiempo'',1 Evento,11/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/el-negri/
-"Marc Seguí - ""AAAAAA Tour""",1 Evento,20/04/2024,,"desde 20,00 €",https://www.entradas.com/artist/marc-segui/marc-segui-aaaaaa-tour-3364225/
-Password - Sara Sánchez - Aranjuez,1 Evento,08/12/2023,,"desde 16,00 €",https://www.entradas.com/artist/sara-sanchez/
-Ters - #LaFdeF,1 Evento,16/02/2024,,"desde 22,00 €",https://www.entradas.com/artist/ters/
-José María Vitier,1 Evento,18/11/2023,,"desde 12,00 €",https://www.entradas.com/artist/jose-maria-vitier/
-Vic Mirallas + invitados,1 Evento,29/02/2024,,"desde 15,00 €",https://www.entradas.com/artist/vic-mirallas/
-Giant Sand,1 Evento,26/11/2023,,"desde 20,00 €",https://www.entradas.com/artist/ciclo-jaguar/giant-sand-3477104/
-Momentos Alhambra: Mammal Hands,1 Evento,18/11/2023,,"desde 27,00 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-mammal-hands-3432432/
-Paula Koops,1 Evento,25/02/2024,,"desde 20,00 €",https://www.entradas.com/artist/paula-koops/
-Fila 8: Clásicos del Cine Moderno - Jazz & the City,1 Evento,18/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/fila-8-clasicos-del-cine-moderno/
-Discotizer Presenta - Cody Currie + Javi Frias,1 Evento,18/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/clubbing/discotizer-presenta-cody-currie-javi-frias-3518486/
-Lina,1 Evento,12/03/2024,,"desde 35,00 €",https://www.entradas.com/artist/lina/
-El Amor y la Muerte en la Ópera,1 Evento,04/11/2023,,"desde 35,00 €",https://www.entradas.com/artist/el-amor-y-la-muerte-en-la-opera/
-Momentos Alhambra: Laura Misch,1 Evento,07/11/2023,,"desde 18,00 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-laura-misch-3432431/
-"Homenaje a Morricone, Zimmer, Williams, Hisaishi",1 Evento,03/12/2023,,"desde 45,00 €",https://www.entradas.com/artist/homenaje-a-morriconezimmerwilliamshisaishi/
-Parov Stelar - Theater Tour,2 eventos,25/04/2024,26/04/2024,"desde 40,00 €",https://www.entradas.com/artist/parov-stelar/
-Zetazen,1 Evento,26/11/2023,,"desde 22,00 €",https://www.entradas.com/artist/zetazen/
-Momentos Alhambra: Sunny War,1 Evento,05/11/2023,,"desde 16,50 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-sunny-war-3432421/
-Alain Perez & La Orquestra,1 Evento,23/12/2023,,"desde 22,00 €",https://www.entradas.com/artist/alain-perez-la-orquestra/
-Atreyu,2 eventos,01/12/2023,02/12/2023,"desde 23,00 €",https://www.entradas.com/artist/atreyu/
-Noche de Música Española,1 Evento,19/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/noche-de-musica-espanola/
-La Movida Madrileña,1 Evento,24/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/la-movida-madrilena-3504781/
-Larkin Poe,1 Evento,08/11/2023,,"desde 25,00 €",https://www.entradas.com/artist/larkin-poe/
-Gala de Zarzuela en Navidad,1 Evento,17/12/2023,,"desde 39,00 €",https://www.entradas.com/artist/gala-de-zarzuela-en-navidad/
-Oneus,1 Evento,07/11/2023,,"desde 55,00 €",https://www.entradas.com/artist/oneus/
-15 Tangos de historia - La Porteña Tango - Madrid,1 Evento,11/12/2023,,"desde 20,00 €",https://www.entradas.com/artist/la-portena-tango/15-tangos-de-historia-la-portena-tango-madrid-3503920/
-Rastro Live,1 Evento,04/11/2023,,"desde 15,00 €",https://www.entradas.com/artist/clubbing/rastro-live-3516317/
+artista,eventos,dia,mes,año,precios,enlaces
+Cariño,1 Evento,13,1,2024,"desde 19,80 €",https://www.entradas.com/artist/carino/carino-3503691/
+Iván Ferreiro,1 Evento,13,1,2024,"desde 38,50 €",https://www.entradas.com/artist/ivan-ferreiro/
+The World Of Hans Zimmer,2 eventos,24,4,2024,"desde 55,00 €",https://www.entradas.com/artist/hans-zimmer/
+The World Of Hans Zimmer,2 eventos,29,4,2024,"desde 55,00 €",https://www.entradas.com/artist/hans-zimmer/
+Triángulo de Amor Bizarro,1 Evento,29,12,2023,"desde 19,80 €",https://www.entradas.com/artist/triangulo-de-amor-bizarro/
+Nico B,1 Evento,14,1,2024,"desde 13,50 €",https://www.entradas.com/artist/nico-b/
+Cala Vento,1 Evento,1,12,2023,"desde 19,80 €",https://www.entradas.com/artist/cala-vento/
+Sidonie,2 eventos,12,1,2024,"desde 27,50 €",https://www.entradas.com/artist/sidonie/sidonie-1739136/
+Sidonie,2 eventos,14,1,2024,"desde 27,50 €",https://www.entradas.com/artist/sidonie/sidonie-1739136/
+Belako - Sigo regando,1 Evento,20,1,2024,"desde 17,60 €",https://www.entradas.com/artist/belako/
+Biznaga,1 Evento,26,1,2024,"desde 18,70 €",https://www.entradas.com/artist/biznaga/
+Morreo - Alegría Club!,1 Evento,18,1,2024,"desde 14,50 €",https://www.entradas.com/artist/morreo/
+Diego el Cigala - Obras Maestras,2 eventos,11,12,2023,"desde 55,00 €",https://www.entradas.com/artist/diego-el-cigala/
+Diego el Cigala - Obras Maestras,2 eventos,18,12,2023,"desde 55,00 €",https://www.entradas.com/artist/diego-el-cigala/
+Symphonic Rhapsody of Queen,1 Evento,16,1,2024,"desde 35,00 €",https://www.entradas.com/artist/symphonic-rhapsody-of-queen/symphonic-rhapsody-of-queen-3295553/
+Sexy Zebras,1 Evento,1,2,2024,"desde 18,00 €",https://www.entradas.com/artist/sexy-zebras/sexy-zebras-3277511/
+"Biografía - Rafa Sánchez, de la unión",1 Evento,11,12,2023,"desde 35,00 €",https://www.entradas.com/artist/rafa-sanchez/
+OBK,3 eventos,13,1,2024,"desde 30,00 €",https://www.entradas.com/artist/obk/
+OBK,3 eventos,27,1,2024,"desde 30,00 €",https://www.entradas.com/artist/obk/
+El Consorcio - Toda una vida,2 eventos,27,11,2023,"desde 29,00 €",https://www.entradas.com/artist/el-consorcio/el-consorcio-toda-una-vida-3165443/
+El Consorcio - Toda una vida,2 eventos,28,11,2023,"desde 29,00 €",https://www.entradas.com/artist/el-consorcio/el-consorcio-toda-una-vida-3165443/
+Rock en Familia - Hijos del Rock and Roll,2 eventos,5,11,2023,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-hijos-del-rock-and-roll-3272770/
+Rock en Familia - Hijos del Rock and Roll,2 eventos,10,3,2024,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-hijos-del-rock-and-roll-3272770/
+Rock en Familia - I Love Rock and Roll,1 Evento,3,12,2023,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-i-love-rock-and-roll-3221042/
+Rock en Familia - Queenmanía,2 eventos,17,12,2023,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-queenmania-3294746/
+Rock en Familia - Queenmanía,2 eventos,14,4,2024,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-queenmania-3294746/
+Rock en Familia - I Love Heavy Metal,2 eventos,19,11,2023,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-i-love-heavy-metal-3449495/
+Rock en Familia - I Love Heavy Metal,2 eventos,24,3,2024,"desde 7,50 €",https://www.entradas.com/artist/rock-en-familia/rock-en-familia-i-love-heavy-metal-3449495/
+Morgan,1 Evento,19,1,2024,"desde 29,70 €",https://www.entradas.com/artist/morgan/
+Los Zigarros,2 eventos,11,1,2024,"desde 30,80 €",https://www.entradas.com/artist/los-zigarros/
+Los Zigarros,2 eventos,12,1,2024,"desde 30,80 €",https://www.entradas.com/artist/los-zigarros/
+Queralt Lahoz,2 eventos,1,12,2023,"desde 23,00 €",https://www.entradas.com/artist/queralt-lahoz/
+Queralt Lahoz,2 eventos,2,12,2023,"desde 23,00 €",https://www.entradas.com/artist/queralt-lahoz/
+Noa,1 Evento,19,3,2024,"desde 30,00 €",https://www.entradas.com/artist/noa/
+Mocedades - Avanzando hacia el futuro,1 Evento,8,1,2024,"desde 30,00 €",https://www.entradas.com/artist/mocedades/mocedades-avanzando-hacia-el-futuro-3411037/
+John Grant,1 Evento,17,11,2023,"desde 20,00 €",https://www.entradas.com/artist/john-grant/
+Callas en concierto - En holograma,2 eventos,11,11,2023,"desde 18,00 €",https://www.entradas.com/artist/maria-callas/
+Callas en concierto - En holograma,2 eventos,9,12,2023,"desde 18,00 €",https://www.entradas.com/artist/maria-callas/
+Zenet,1 Evento,26,11,2023,"desde 18,00 €",https://www.entradas.com/artist/zenet/
+Laura Pausini,1 Evento,27,1,2024,"desde 30,00 €",https://www.entradas.com/artist/laura-pausini/
+Concierto Sinfónico de Abono B18 (Jueves),1 Evento,18,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b18-jueves-3479312/
+Concierto Sinfónico de Abono B18 (Viernes),1 Evento,19,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b18-viernes-3479313/
+Concierto Sinfónico de Abono B16 (Viernes),1 Evento,22,3,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b16-viernes-3479309/
+Concierto Sinfónico de Abono B16 (Jueves),1 Evento,21,3,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b16-jueves-3479308/
+Concierto Sinfónico de Abono A13 (Jueves),1 Evento,22,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a13-jueves-3479302/
+Concierto Sinfónico de Abono A15 (Jueves),1 Evento,14,3,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a15-jueves-3479306/
+Concierto Sinfónico de Abono A15 (Viernes),1 Evento,15,3,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a15-viernes-3479307/
+Concierto Sinfónico de Abono B12 (Viernes),1 Evento,16,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b12-viernes-3479301/
+Concierto Sinfónico de Abono A19 (Viernes),1 Evento,26,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a19-viernes-3479315/
+Concierto Sinfónico de Abono A7 (Viernes),1 Evento,24,11,2023,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a7-viernes-3479291/
+Concierto Sinfónico de Abono B10 (Viernes),1 Evento,26,1,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b10-viernes-3479297/
+Concierto Sinfónico de Abono B14 (Jueves),1 Evento,29,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b14-jueves-3479304/
+Concierto Sinfónico de Abono B10 (Viernes),1 Evento,26,1,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b10-viernes-3479297/
+Concierto Sinfónico de Abono A11 (Viernes),1 Evento,9,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a11-viernes-3479299/
+Concierto Sinfónico de Abono B6 (Viernes),1 Evento,10,11,2023,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b6-viernes-3479289/
+Concierto Sinfónico de Abono A9 (Jueves),1 Evento,18,1,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a9-jueves-3479294/
+Concierto Sinfónico de Abono B8 (Jueves),1 Evento,11,1,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b8-jueves-3479292/
+Concierto Sinfónico de Abono B8 (Viernes),1 Evento,12,1,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b8-viernes-3479293/
+Concierto Sinfónico de Abono A17 (Viernes),1 Evento,12,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a17-viernes-3479311/
+Concierto Sinfónico de Abono A7 (Jueves),1 Evento,23,11,2023,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a7-jueves-3479290/
+CONCIERTO DE GALARDONADOS EL CONCURSO JUVENTUDES MUSICALES,1 Evento,17,5,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-de-galardonados-el-concurso-juventudes-musicales-3491494/
+JÓVENES MÚSICOS I,1 Evento,17,11,2023,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-i-3491507/
+JÓVENES MÚSICOS III,1 Evento,5,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-iii-3491493/
+Ensayos Ciclo Sinfónico,15 eventos,10,11,2023,"desde 3,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/ensayos-ciclo-sinfonico-3491491/
+Ensayos Ciclo Sinfónico,15 eventos,9,5,2024,"desde 3,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/ensayos-ciclo-sinfonico-3491491/
+Concierto Sinfónico de Abono A17 (Jueves),1 Evento,11,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a17-jueves-3479310/
+Concierto Sinfónico de Abono A11 (Jueves),1 Evento,8,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a11-jueves-3479298/
+Concierto Sinfónico de Abono B20 (Viernes),1 Evento,10,5,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b20-viernes-3479317/
+Concierto Sinfónico de Abono A19 (Jueves),1 Evento,25,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a19-jueves-3479314/
+Concierto Sinfónico de Abono B10 (Jueves),1 Evento,25,1,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b10-jueves-3479296/
+Concierto Sinfónico de Abono B14 (Viernes),1 Evento,1,3,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-b14-viernes-3479305/
+JÓVENES MÚSICOS II,1 Evento,2,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-ii-3491492/
+JÓVENES MÚSICOS III,1 Evento,5,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/jovenes-musicos-iii-3491493/
+Concierto Sinfónico de Abono A11 (Jueves),1 Evento,8,2,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a11-jueves-3479298/
+Concierto Sinfónico de Abono A17 (Jueves),1 Evento,11,4,2024,"desde 15,00 €",https://www.entradas.com/artist/orquesta-sinfonica-y-coro-de-rtve/concierto-sinfonico-de-abono-a17-jueves-3479310/
+Maximiliano Calvo - El Gallo,1 Evento,11,1,2024,"desde 16,50 €",https://www.entradas.com/artist/inverfest/maximiliano-calvo-el-gallo-3503683/
+Ricardo Moya,1 Evento,21,1,2024,"desde 16,50 €",https://www.entradas.com/artist/inverfest/ricardo-moya-3503694/
+Bestia Bebé,1 Evento,28,1,2024,"desde 13,50 €",https://www.entradas.com/artist/inverfest/bestia-bebe-3077633/
+Paul Alone,1 Evento,1,2,2024,"desde 22,00 €",https://www.entradas.com/artist/inverfest/paul-alone-3504465/
+McEnroe,1 Evento,13,1,2024,"desde 22,00 €",https://www.entradas.com/artist/inverfest/mcenroe-3503685/
+Grande Amore,1 Evento,20,1,2024,"desde 16,50 €",https://www.entradas.com/artist/inverfest/grande-amore-3503693/
+Delgao,1 Evento,27,1,2024,"desde 19,80 €",https://www.entradas.com/artist/inverfest/delgao-3504461/
+Christina Rosenvinge,1 Evento,10,1,2024,"desde 28,60 €",https://www.entradas.com/artist/inverfest/christina-rosenvinge-2831739/
+Rubén Pozo,1 Evento,25,1,2024,"desde 22,00 €",https://www.entradas.com/artist/inverfest/ruben-pozo-3506022/
+Ariel Rot - 25 años hablando solo,1 Evento,25,1,2024,"desde 30,80 €",https://www.entradas.com/artist/inverfest/ariel-rot-25-anos-hablando-solo-3504415/
+Israel B - EED1HS,1 Evento,25,1,2024,"desde 19,80 €",https://www.entradas.com/artist/inverfest/israel-b-eed1hs-3361884/
+Austin TV,1 Evento,31,1,2024,"desde 19,80 €",https://www.entradas.com/artist/inverfest/austin-tv-3491782/
+Francisco,4 eventos,12,1,2024,"desde 30,00 €",https://www.entradas.com/artist/francisco/
+Francisco,4 eventos,23,3,2024,"desde 30,00 €",https://www.entradas.com/artist/francisco/
+Raúl Paz,1 Evento,7,11,2023,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/raul-paz-3444441/
+Mark Guiliana,1 Evento,20,11,2023,"desde 23,00 €",https://www.entradas.com/artist/mark-guiliana/
+Billy Cobham Spectrum 50 Project,2 eventos,17,11,2023,"desde 29,00 €",https://www.entradas.com/artist/villanos-del-jazz/billy-cobham-spectrum-50-project-3441649/
+Antonio Lizana,1 Evento,30,11,2023,"desde 15,00 €",https://www.entradas.com/artist/villanos-del-jazz/antonio-lizana-2840178/
+Shai Maestro,1 Evento,12,11,2023,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/shai-maestro-3441647/
+Antonio Rey y amigos,1 Evento,5,11,2023,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/antonio-rey-y-amigos-3496020/
+Theo Croker Quartet,1 Evento,9,11,2023,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/theo-croker-quartet-3441607/
+Stick Men & Gilipojazz,1 Evento,5,11,2023,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/stick-men-gilipojazz-3451011/
+Scary Pockets,1 Evento,9,2,2024,"desde 28,00 €",https://www.entradas.com/artist/villanos-del-jazz/scary-pockets-3490507/
+The Cookers,1 Evento,9,11,2023,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/the-cookers-3441430/
+Richard Bona,2 eventos,10,11,2023,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/richard-bona-3442563/
+Takuya Kuroda,1 Evento,7,11,2023,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/takuya-kuroda-3441895/
+Matthew Halsall,1 Evento,19,11,2023,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/matthew-halsall-3441508/
+Fatoumata Diawara,1 Evento,21,11,2023,"desde 25,00 €",https://www.entradas.com/artist/villanos-del-jazz/fatoumata-diawara-3441856/
+Calibro 35,1 Evento,24,11,2023,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/calibro-35-3495748/
+Martirio & Chano Domínguez,1 Evento,14,11,2023,"desde 24,00 €",https://www.entradas.com/artist/villanos-del-jazz/martirio-chano-dominguez-3441440/
+Kassa Overall,1 Evento,25,11,2023,"desde 21,00 €",https://www.entradas.com/artist/villanos-del-jazz/kassa-overall-3441668/
+Moisés P. Sánchez,1 Evento,18,11,2023,"desde 20,00 €",https://www.entradas.com/artist/villanos-del-jazz/moises-p-sanchez-3441501/
+El Kanka: Ruta Firestone 2023,1 Evento,23,11,2023,"desde 35,00 €",https://www.entradas.com/artist/el-kanka/
+Nando Agüeros,1 Evento,28,1,2024,"desde 28,00 €",https://www.entradas.com/artist/nando-agueros/
+Jason Derulo,2 eventos,6,12,2023,"desde 48,00 €",https://www.entradas.com/artist/jason-derulo/
+Jason Derulo,2 eventos,7,12,2023,"desde 48,00 €",https://www.entradas.com/artist/jason-derulo/
+Zree and more,1 Evento,15,3,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/zree-and-more-3440669/
+“Skybridges”,1 Evento,8,3,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/skybridges-3440668/
+Tina Turner Sinfónico,2 eventos,24,5,2024,"desde 30,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/tina-turner-sinfonico-3451288/
+Tina Turner Sinfónico,2 eventos,25,5,2024,"desde 30,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/tina-turner-sinfonico-3451288/
+Elvis in my life,1 Evento,26,1,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/elvis-in-my-life-3440662/
+Concierto Conmemorativo 50 Aniversario,1 Evento,1,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-conmemorativo-50-aniversario-3504147/
+Lo sugerente,1 Evento,5,4,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/lo-sugerente-3440671/
+"Walking Jazz ""AtriLogy""",1 Evento,22,3,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/walking-jazz-atrilogy-3440670/
+Lara Bello flamenco,1 Evento,12,4,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/lara-bello-flamenco-3440672/
+“Dedication II”,1 Evento,16,2,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/dedication-ii-3440665/
+Bloomsound,1 Evento,24,5,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/bloomsound-3440676/
+Orquesta Sinfónica de Castilla León,1 Evento,11,11,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/orquesta-sinfonica-de-castilla-leon-3436297/
+Celtiberia Jazz,1 Evento,19,4,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/celtiberia-jazz-3440673/
+“De aquí”,1 Evento,2,2,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/de-aqui-3440663/
+Joni Jiménez,1 Evento,31,5,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/joni-jimenez-3440485/
+Antonio Reyes (flamenco),1 Evento,1,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/antonio-reyes-flamenco-3440484/
+"Concierto ""Impuesto"" a Javier Krahe",1 Evento,10,11,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-impuesto-a-javier-krahe-3409505/
+Concierto de Navidad 2023,2 eventos,21,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-de-navidad-2023-3519972/
+Concierto de Navidad 2023,2 eventos,22,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-de-navidad-2023-3519972/
+Compás bolero,1 Evento,17,5,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/compas-bolero-3440675/
+Jazz Mad Bones: Tributo a Glenn Miller,1 Evento,12,1,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/jazz-mad-bones-tributo-a-glenn-miller-3440611/
+Niño Josele,1 Evento,1,3,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/nino-josele-3440667/
+¨Canciones que no se extraviaron¨,1 Evento,19,1,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/canciones-que-no-se-extraviaron-3440661/
+Cañizares Rutas sonoras: Paisajes de Iberia para dos guitarr,1 Evento,9,2,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/canizares-rutas-sonoras-paisajes-de-iberia-para-dos-guitarr-3440664/
+“Ritual live”,1 Evento,23,2,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/ritual-live-3440666/
+Rajiv Jayawer,1 Evento,26,4,2024,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/rajiv-jayawer-3440674/
+"""Recital 2.0""",1 Evento,15,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/recital-2-0-3440609/
+"""Suite Sefarad""",1 Evento,24,11,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/suite-sefarad-3440608/
+Concierto Extraordinario,1 Evento,14,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/concierto-extraordinario-3515184/
+Swinging Classics for Christmas,1 Evento,22,12,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/swinging-classics-for-christmas-3440610/
+"Ocaña, Copla de Libertad",1 Evento,17,11,2023,"desde 15,00 €",https://www.entradas.com/artist/eventos-del-teatro-monumental/ocana-copla-de-libertad-3440607/
+Niños Mutantes,1 Evento,10,11,2023,"desde 20,00 €",https://www.entradas.com/artist/ninos-mutantes/
+Mahmood,3 eventos,8,5,2024,"desde 34,00 €",https://www.entradas.com/artist/mahmood/
+Mahmood,3 eventos,11,5,2024,"desde 34,00 €",https://www.entradas.com/artist/mahmood/
+Lou Fresco / Marc Ginale Aka Lil Supa,3 eventos,17,1,2024,"desde 26,00 €",https://www.entradas.com/artist/lou-fresco/
+Lou Fresco / Marc Ginale Aka Lil Supa,3 eventos,21,1,2024,"desde 26,00 €",https://www.entradas.com/artist/lou-fresco/
+Carminho,1 Evento,6,2,2024,"desde 30,00 €",https://www.entradas.com/artist/carminho/
+Homenaje a John Williams y lo mejor de Disney,1 Evento,23,12,2023,"desde 38,00 €",https://www.entradas.com/artist/royal-film-concert-orchestra-rfco/
+The Bamboos,1 Evento,16,11,2023,"desde 20,00 €",https://www.entradas.com/artist/the-bamboos/
+FREEZR,1 Evento,2,2,2024,"desde 35,20 €",https://www.entradas.com/artist/la-zowi/
+Vivir así es morir de amor,2 eventos,15,1,2024,"desde 35,00 €",https://www.entradas.com/artist/vivir-asi-es-morir-de-amor/
+Vivir así es morir de amor,2 eventos,4,2,2024,"desde 35,00 €",https://www.entradas.com/artist/vivir-asi-es-morir-de-amor/
+Concierto de año nuevo - Repertorio clásico de Viena,5 eventos,1,1,2024,"desde 18,00 €",https://www.entradas.com/artist/concierto-de-ano-nuevo-repertorio-clasico-de-viena/
+Concierto de año nuevo - Repertorio clásico de Viena,5 eventos,2,1,2024,"desde 18,00 €",https://www.entradas.com/artist/concierto-de-ano-nuevo-repertorio-clasico-de-viena/
+Música de películas,1 Evento,13,1,2024,"desde 5,00 €",https://www.entradas.com/artist/orquesta-sinfonica-chamartin/musica-de-peliculas-3232751/
+Christmas Concert,1 Evento,22,12,2023,"desde 5,00 €",https://www.entradas.com/artist/orquesta-sinfonica-chamartin/christmas-concert-3228708/
+Noche de Jóvenes Estrellas,1 Evento,16,11,2023,"desde 5,00 €",https://www.entradas.com/artist/orquesta-sinfonica-chamartin/noche-de-jovenes-estrellas-3482790/
+Jorge Bedoya - Las manos,1 Evento,17,12,2023,"desde 15,00 €",https://www.entradas.com/artist/jorge-bedoya/
+Farrucos y Fernández - Navidad en Familia,1 Evento,12,12,2023,"desde 30,00 €",https://www.entradas.com/artist/farrucos-y-fernandez/
+Mocedades y Los Panchos - 50 Años contigo,2 eventos,13,12,2023,"desde 35,00 €",https://www.entradas.com/artist/mocedades-y-los-panchos/
+Mocedades y Los Panchos - 50 Años contigo,2 eventos,18,12,2023,"desde 35,00 €",https://www.entradas.com/artist/mocedades-y-los-panchos/
+Jemba Groove,1 Evento,16,3,2024,"desde 18,00 €",https://www.entradas.com/artist/jemba-groove/
+PIXY,1 Evento,19,11,2023,"desde 45,00 €",https://www.entradas.com/artist/pixy/
+Federico Albanese,1 Evento,23,11,2023,"desde 35,00 €",https://www.entradas.com/artist/federico-albanense/
+Fado como el río que fluye - Laureana Fadista,1 Evento,12,11,2023,"desde 16,00 €",https://www.entradas.com/artist/laureana-fadista/
+"Big Country, China Crisis, The Blow Monkeys, The Alarm",1 Evento,10,10,2024,"desde 38,00 €",https://www.entradas.com/artist/sophisticated-pop-tour/
+GAUR&NOALUR,1 Evento,19,11,2023,"desde 4,25 €",https://www.entradas.com/artist/gaur-noalur/
+Sven Helbig,1 Evento,17,4,2024,"desde 35,00 €",https://www.entradas.com/artist/banco-mediolanum-summum-concert-series/sven-helbig-3516878/
+Mónica Matabuena Quartet - Jazz & the City,1 Evento,10,11,2023,"desde 15,00 €",https://www.entradas.com/artist/monica-matabuena/
+El Conciertazo en Familia: Mozart y sus amigos,1 Evento,25,5,2024,"desde 18,00 €",https://www.entradas.com/artist/el-conciertazo-en-familia-mozart-y-sus-amigos/
+Gran gala de navidad y año nuevo,1 Evento,30,12,2023,"desde 25,00 €",https://www.entradas.com/artist/gran-gala-de-navidad-y-ano-nuevo/
+El Conciertazo en Familia: Las Cuatro Estaciones,1 Evento,16,3,2024,"desde 18,00 €",https://www.entradas.com/artist/el-conciertazo-en-familia-las-cuatro-estaciones/
+Greg Taro,2 eventos,8,2,2024,"desde 16,00 €",https://www.entradas.com/artist/greg-taro/
+Greg Taro,2 eventos,9,2,2024,"desde 16,00 €",https://www.entradas.com/artist/greg-taro/
+Hard GZ: Tour 23/24,1 Evento,22,2,2024,"desde 20,00 €",https://www.entradas.com/artist/hard-gz/
+2LOUD en concierto - Jazzville,1 Evento,25,11,2023,"desde 8,73 €",https://www.entradas.com/artist/2loud/
+Albertucho - El regreso,1 Evento,30,11,2023,"desde 22,00 €",https://www.entradas.com/artist/albertucho/
+Paradise Phantoms + Skunk Funk,1 Evento,8,11,2023,"desde 17,00 €",https://www.entradas.com/eventseries/paradise-phantoms-skunk-funk-3483129/
+El Conciertazo en Familia: Especial Navidad,1 Evento,30,12,2023,"desde 18,00 €",https://www.entradas.com/artist/el-conciertazo-en-familia-especial-navidad/
+Rodrigo y Gabriela - In Between Thoughts...A New World Tour 2023,2 eventos,7,11,2023,"desde 30,00 €",https://www.entradas.com/artist/rodrigo-y-gabriela/
+Rodrigo y Gabriela - In Between Thoughts...A New World Tour 2023,2 eventos,9,11,2023,"desde 30,00 €",https://www.entradas.com/artist/rodrigo-y-gabriela/
+Alice Phoebe Lou,1 Evento,29,11,2023,"desde 24,00 €",https://www.entradas.com/artist/ciclo-jaguar/alice-phoebe-lou-3424897/
+Jaleos Jondos,38 eventos,5,11,2023,"desde 32,50 €",https://www.entradas.com/artist/jaleos-jondos/
+Jaleos Jondos,38 eventos,10,12,2023,"desde 32,50 €",https://www.entradas.com/artist/jaleos-jondos/
+Trovadores del Jazz,8 eventos,6,11,2023,"desde 12,80 €",https://www.entradas.com/artist/trovadores-del-jazz/
+Trovadores del Jazz,8 eventos,18,12,2023,"desde 12,80 €",https://www.entradas.com/artist/trovadores-del-jazz/
+Schumann y Brahms - Ensemble Praeteritum,1 Evento,16,11,2023,"desde 12,00 €",https://www.entradas.com/artist/ensemble-praeteritum/
+Aranlight Soul & Gospel - Jazz & the City,1 Evento,15,12,2023,"desde 15,00 €",https://www.entradas.com/artist/aranlight/
+Mujeres Pop,1 Evento,10,11,2023,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/mujeres-pop-3504916/
+Fred de Palma,2 eventos,26,3,2024,"desde 25,00 €",https://www.entradas.com/artist/fred-de-palma/
+Fred de Palma,2 eventos,27,3,2024,"desde 25,00 €",https://www.entradas.com/artist/fred-de-palma/
+"Fran Perea ""1 más 1 son 20""",1 Evento,23,2,2024,"desde 25,00 €",https://www.entradas.com/artist/fran-perea/
+Danza para Guitarra,1 Evento,9,12,2023,"desde 9,00 €",https://www.entradas.com/artist/danza-para-guitarra/
+Invisible Tattoo,1 Evento,29,11,2023,"desde 18,00 €",https://www.entradas.com/artist/invisible-tatoo/
+Footloosing,1 Evento,11,11,2023,"desde 15,00 €",https://www.entradas.com/artist/footlosing/
+Apartamentos Acapulco + Cora Yako,1 Evento,1,12,2023,"desde 16,00 €",https://www.entradas.com/artist/ciclo-jaguar/apartamentos-acapulco-cora-yako-3477085/
+Luceral + Cherry Pie,1 Evento,8,11,2023,"desde 15,00 €",https://www.entradas.com/artist/clubbing/luceral-cherry-pie-3523497/
+La Serva Padrona - Aranjuez,1 Evento,25,11,2023,"desde 15,00 €",https://www.entradas.com/artist/la-serva-padrona-orquesta-martin-i-soler/
+Momentos Alhambra: Rikas,1 Evento,14,12,2023,"desde 15,00 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-rikas-3432438/
+Aires de Persia,1 Evento,13,11,2023,"desde 23,00 €",https://www.entradas.com/artist/aires-de-persia-ensambles-javid-zarbang/
+Diego Guerrero,1 Evento,15,12,2023,"desde 18,00 €",https://www.entradas.com/artist/diego-guerrero/
+Luna Ki,1 Evento,25,4,2024,"desde 18,00 €",https://www.entradas.com/artist/luna-ki/
+Kaze - Gira 2024,1 Evento,21,4,2024,"desde 22,00 €",https://www.entradas.com/artist/kaze/
+Rupatrupa,1 Evento,17,11,2023,"desde 19,00 €",https://www.entradas.com/artist/rupatrupa/
+"Mujer, inspiración y acción",1 Evento,19,11,2023,"desde 4,17 €",https://www.entradas.com/artist/mujer-inspiracion-y-accion/
+The Music of Big Star + The Sadies,1 Evento,16,11,2023,"desde 28,00 €",https://www.entradas.com/artist/big-star/
+The Greatest Love Of All,1 Evento,20,11,2023,"desde 25,00 €",https://www.entradas.com/artist/the-greatest-love-of-all/the-greatest-love-of-all-3418160/
+Blues & Roots,1 Evento,26,11,2023,"desde 9,00 €",https://www.entradas.com/artist/blues-roots/
+Impulso presenta: Danilo Plessow (Motor City Drum Ensemble) + Javi Frias & Roberto Tempo,1 Evento,10,11,2023,"desde 17,85 €",https://www.entradas.com/artist/danilo-plessow-motor-city-drum-ensemble/
+Gran Gala Flamenco - Madrid,2 eventos,24,12,2023,"desde 35,00 €",https://www.entradas.com/artist/gran-gala-flamenco/gran-gala-flamenco-madrid-3139712/
+Gran Gala Flamenco - Madrid,2 eventos,1,1,2024,"desde 35,00 €",https://www.entradas.com/artist/gran-gala-flamenco/gran-gala-flamenco-madrid-3139712/
+Rolling Stones vs Beatles,1 Evento,17,11,2023,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/rolling-stones-vs-beatles-3504917/
+Lo + actual,1 Evento,1,12,2023,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/lo-actual-3504780/
+Homenaje a Pablo Milanés,1 Evento,24,3,2024,"desde 30,00 €",https://www.entradas.com/artist/homenaje-a-pablo-milanes/
+Rawayana - ¿Quien trae las cornetas?,3 eventos,7,4,2024,"desde 35,00 €",https://www.entradas.com/artist/rawayana/
+Rawayana - ¿Quien trae las cornetas?,3 eventos,10,4,2024,"desde 35,00 €",https://www.entradas.com/artist/rawayana/
+Rhythm Of The Dance,1 Evento,12,2,2024,"desde 18,00 €",https://www.entradas.com/artist/rhythm-of-the-dance/
+Eva Català Group,1 Evento,25,11,2023,"desde 3,25 €",https://www.entradas.com/artist/eva-catala-group/
+The Other Side - A Pink Floyd Live Experience,2 eventos,24,11,2023,"desde 28,00 €",https://www.entradas.com/artist/the-other-side/
+The Other Side - A Pink Floyd Live Experience,2 eventos,17,12,2023,"desde 28,00 €",https://www.entradas.com/artist/the-other-side/
+VibranDo,1 Evento,17,12,2023,"desde 18,00 €",https://www.entradas.com/artist/vibrando/
+Lina,1 Evento,12,3,2024,"desde 35,00 €",https://www.entradas.com/artist/lina/
+"Marc Seguí - ""AAAAAA Tour""",1 Evento,20,4,2024,"desde 20,00 €",https://www.entradas.com/artist/marc-segui/marc-segui-aaaaaa-tour-3364225/
+Giant Sand,1 Evento,26,11,2023,"desde 20,00 €",https://www.entradas.com/artist/ciclo-jaguar/giant-sand-3477104/
+Ters - #LaFdeF,1 Evento,16,2,2024,"desde 22,00 €",https://www.entradas.com/artist/ters/
+Discotizer Presenta - Cody Currie + Javi Frias,1 Evento,18,11,2023,"desde 15,00 €",https://www.entradas.com/artist/clubbing/discotizer-presenta-cody-currie-javi-frias-3518486/
+Alain Perez & La Orquestra,1 Evento,23,12,2023,"desde 22,00 €",https://www.entradas.com/artist/alain-perez-la-orquestra/
+Password - Sara Sánchez - Aranjuez,1 Evento,8,12,2023,"desde 16,00 €",https://www.entradas.com/artist/sara-sanchez/
+José María Vitier,1 Evento,18,11,2023,"desde 12,00 €",https://www.entradas.com/artist/jose-maria-vitier/
+Fila 8: Clásicos del Cine Moderno - Jazz & the City,1 Evento,18,11,2023,"desde 15,00 €",https://www.entradas.com/artist/fila-8-clasicos-del-cine-moderno/
+Momentos Alhambra: Laura Misch,1 Evento,7,11,2023,"desde 18,00 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-laura-misch-3432431/
+Parov Stelar - Theater Tour,2 eventos,25,4,2024,"desde 40,00 €",https://www.entradas.com/artist/parov-stelar/
+Parov Stelar - Theater Tour,2 eventos,26,4,2024,"desde 40,00 €",https://www.entradas.com/artist/parov-stelar/
+Gala de Zarzuela en Navidad,1 Evento,17,12,2023,"desde 39,00 €",https://www.entradas.com/artist/gala-de-zarzuela-en-navidad/
+Zetazen,1 Evento,26,11,2023,"desde 22,00 €",https://www.entradas.com/artist/zetazen/
+Paula Koops,1 Evento,25,2,2024,"desde 20,00 €",https://www.entradas.com/artist/paula-koops/
+Vic Mirallas + invitados,1 Evento,29,2,2024,"desde 15,00 €",https://www.entradas.com/artist/vic-mirallas/
+"Homenaje a Morricone, Zimmer, Williams, Hisaishi",1 Evento,3,12,2023,"desde 45,00 €",https://www.entradas.com/artist/homenaje-a-morriconezimmerwilliamshisaishi/
+Larkin Poe,1 Evento,8,11,2023,"desde 25,00 €",https://www.entradas.com/artist/larkin-poe/
+Momentos Alhambra: Mammal Hands,1 Evento,18,11,2023,"desde 27,00 €",https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-mammal-hands-3432432/
+El Negri ''Mi tiempo'',1 Evento,11,11,2023,"desde 20,00 €",https://www.entradas.com/artist/el-negri/
+Ritmo y Poesía FEST,3 eventos,14,11,2023,"desde 7,00 €",https://www.entradas.com/artist/ritmo-y-poesia/
+Ritmo y Poesía FEST,3 eventos,15,11,2023,"desde 7,00 €",https://www.entradas.com/artist/ritmo-y-poesia/
+Atreyu,2 eventos,1,12,2023,"desde 23,00 €",https://www.entradas.com/artist/atreyu/
+Atreyu,2 eventos,2,12,2023,"desde 23,00 €",https://www.entradas.com/artist/atreyu/
+La Movida Madrileña,1 Evento,24,11,2023,"desde 15,00 €",https://www.entradas.com/artist/conciertos-pluslive/la-movida-madrilena-3504781/
+Momentos Alhambra: Sunny War,1 Evento,5,11,2023,Actualmente no disponible,https://www.entradas.com/artist/momentos-alhambra/momentos-alhambra-sunny-war-3432421/
+Noche de Música Española,1 Evento,19,11,2023,"desde 15,00 €",https://www.entradas.com/artist/noche-de-musica-espanola/
+Oneus,1 Evento,7,11,2023,"desde 55,00 €",https://www.entradas.com/artist/oneus/
+15 Tangos de historia - La Porteña Tango - Madrid,1 Evento,11,12,2023,"desde 20,00 €",https://www.entradas.com/artist/la-portena-tango/15-tangos-de-historia-la-portena-tango-madrid-3503920/
