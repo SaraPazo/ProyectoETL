@@ -170,3 +170,10 @@ ORDER BY `cantidad` DESC;
 ```
 
 ![Query3](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query3.png)
+
+
+
+### 8. BONUS QUERIES con Mongo
+
+
+![Query1](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query1.png)
