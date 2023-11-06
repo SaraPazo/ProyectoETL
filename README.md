@@ -5,11 +5,11 @@
 
 ### INDICE
 1. Descripción
-2. Contenido
-3. Fuentes de extracción
-3. Organización de los datos
-4. Limpieza de datos
-5. Creación de las bases de datos
+2. Fuentes de extracción
+3. Objetivo
+4. Contenido
+5. Limpieza de datos
+5. Creación de la base de datos
 6. BONUS QUERIES
 
 
@@ -103,7 +103,7 @@ Una vez tenemos nuestros datos, pasamos el DataFrame generado a .csv y tendremos
 
 
 
-### 6. CREACION DE BASE DE DATOS
+### 6. CREACION DE LA BASE DE DATOS
 
 Posteriormente se crea la base de datos. 
 En el archivo 'SQLdone.sql' se muestra cómo se han generado las conexiones y algunas de las columnas que faltaban en mis tablas. 
