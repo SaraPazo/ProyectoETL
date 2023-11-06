@@ -92,5 +92,3 @@ ADD COLUMN `eventos_id` INT,
 ADD CONSTRAINT `fky_eventos_id`
     FOREIGN KEY (`eventos_id`)
     REFERENCES `eventos` (`eventos_id`);
-
-
