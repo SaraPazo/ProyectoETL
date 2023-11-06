@@ -1,6 +1,6 @@
 # ProyectoETL
 
-![Imagen](https://github.com/SaraPazo/ProjectETL/tree/main/Imagen/imagenpor.png)
+![Imagen](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/imagenpor.png)
 
 
 ### INDICE
@@ -59,8 +59,8 @@ GROUP BY residentes.mes
 ORDER BY cantidad DESC
 LIMIT 5;
 
-![Query1]()
 
+![Query1](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query1.png)
 
 -- Query 2: ¿En qué mes del año hay más cantidad de eventos disponibles?
 
@@ -70,6 +70,7 @@ GROUP BY eventos.mes
 ORDER BY cantidad DESC
 LIMIT 1;
 
+![Query2](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query2.png)
 
 
 -- Query 3: ¿Qué meses del año hay más cantidad de eventos disponibles? Dámelos por orden descendente.
@@ -77,3 +78,5 @@ SELECT eventos.mes, COUNT(*) AS `cantidad`
 FROM eventos
 GROUP BY eventos.mes
 ORDER BY `cantidad` DESC;
+
+![Query3](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query3.png)
