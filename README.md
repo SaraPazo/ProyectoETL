@@ -10,6 +10,12 @@
 4. Contenido
 5. Limpieza de datos
 5. Creación de la base de datos
+
+    a. En SQL
+
+    b. En Mongo
+
+
 6. BONUS QUERIES
 
 
@@ -75,11 +81,13 @@ Sin embargo, antes de centrarme en las conclusiones y estudio definitivo, este p
 
     -  **Viajeros.ipynb**:jupyter notebook con la limpieza de datos de la afluencia de personas, viajeros, en la Comunidad de Madrid, y preparación de la data para el posterior análisis.
 
+    - **Mongo.ipynb**: Jupyter notebook con la importación de los .csv a Mongo. Creación de la base de datos en Mongo.
+
     - **SQLsend.ipynb**: jupyter notebook con todas las tablas limpias y en las que he añadido los 'id' de cada una de las tablas, en preparación para el análisis posterior.
 
     - **SQLdone.sql**: Esquema creado en SQL sobre las tablas importadas desde pandas. 
 
-    - **SQLquery.sql**: Como *BONUS QUERIES* he probado mi diagrama en SQL con unas queries que hacen relaciones muy sencillas. 
+    - **SQLquery.sql**: Como *BONUS QUERIES con SQL* he probado mi diagrama en SQL con unas queries que hacen relaciones muy sencillas. 
 
 
 
@@ -105,6 +113,8 @@ Una vez tenemos nuestros datos, pasamos el DataFrame generado a .csv y tendremos
 
 ### 6. CREACION DE LA BASE DE DATOS
 
+**a. En SQL:**
+
 Posteriormente se crea la base de datos. 
 En el archivo 'SQLdone.sql' se muestra cómo se han generado las conexiones y algunas de las columnas que faltaban en mis tablas. 
 
@@ -113,8 +123,17 @@ Mi base de datos final:
 ![Imagen](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/DiagramSQL.png)
 
 
+**b. En Mongo:**
 
-### 7. BONUS QUERIES
+A pesar de haber creado la base de datos en SQL, las conexiones parecían no funcionar (pendiente de perfeccionar para el próximo proyecto). 
+
+Por ello, he decidido exportar los .csv también a Mongo para saber que estará correcto.
+
+
+
+### 7. BONUS QUERIES con SQL
+
+- Algunas queries que si me funcionaron con SQL:
 
 -- Query 1: ¿Cuáles son los 5 meses en los que es más posible que residentes en España acudan a eventos? 
 

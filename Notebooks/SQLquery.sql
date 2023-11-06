@@ -1,4 +1,5 @@
 
+-- QUERIES EN SQL
 
 -- Query 1: ¿En qué mes es más posible que residentes en España acudan a eventos? 
 
