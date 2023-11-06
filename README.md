@@ -175,5 +175,6 @@ ORDER BY `cantidad` DESC;
 
 ### 8. BONUS QUERIES con Mongo
 
+- Quiero saber los eventos disponibles en entradas.com del artista Sidone.
 
-![Query1](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query1.png)
+![Query1](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/QueryMongo.png)
