@@ -118,31 +118,37 @@ Mi base de datos final:
 
 -- Query 1: ¿Cuáles son los 5 meses en los que es más posible que residentes en España acudan a eventos? 
 
+```
 SELECT residentes.mes, COUNT(*) AS cantidad
 FROM residentes
 LEFT JOIN eventos ON residentes.eventos_id = eventos.eventos_id
 GROUP BY residentes.mes
 ORDER BY cantidad DESC
 LIMIT 5;
-
+```
 
 ![Query1](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query1.png)
 
 -- Query 2: ¿En qué mes del año hay más cantidad de eventos disponibles?
 
+```
 SELECT eventos.mes, COUNT(*) AS cantidad
 FROM eventos
 GROUP BY eventos.mes
 ORDER BY cantidad DESC
 LIMIT 1;
+```
 
 ![Query2](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query2.png)
 
 
 -- Query 3: ¿Qué meses del año hay más cantidad de eventos disponibles? Dámelos por orden descendente.
+
+```
 SELECT eventos.mes, COUNT(*) AS `cantidad`
 FROM eventos
 GROUP BY eventos.mes
 ORDER BY `cantidad` DESC;
+```
 
 ![Query3](https://github.com/SaraPazo/ProyectoETL/blob/main/Imagen/Query3.png)
